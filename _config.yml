@@ -1,4 +1,4 @@
-gems:
-  - jekyll-redirect-from
 title: Marwi on the Trail
+description: Poetry and musings
 email: marcella.wigg@gmail.com
+baseurl: "http://marcellawigg.github.io"
